@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>SudYar</OriginalElement>
+  <nodes>
+    <node x="1225.25" y="418.0">SudYar.You</node>
+    <node x="2241.567719116632" y="78.0">SudYar.Silent</node>
+    <node x="231.5" y="78.0">SudYar.Poor</node>
+    <node x="2410.25" y="373.0">SudYar.EnumTimes</node>
+    <node x="2216.25" y="385.0">SudYar.Mum</node>
+    <node x="419.2499999999999" y="396.0">SudYar.We</node>
+    <node x="0.0" y="395.5">SudYar.Wrinkle</node>
+    <node x="1807.25" y="407.0">SudYar.Nobody</node>
+    <node x="225.25" y="352.0">SudYar.Julius</node>
+    <node x="1886.25" y="78.0">SudYar.Missing</node>
+    <node x="1419.25" y="407.0">SudYar.He</node>
+    <node x="441.9427191166319" y="78.0">SudYar.Kind</node>
+    <node x="1191.615079365079" y="767.0">SudYar.Main</node>
+    <node x="613.2499999999999" y="385.0">SudYar.Kids</node>
+    <node x="1613.25" y="418.0">SudYar.Dad</node>
+    <node x="45.5" y="78.0">SudYar.Appearing</node>
+    <node x="818.2499999999999" y="418.0">SudYar.Relative</node>
+    <node x="1012.2499999999999" y="373.0">SudYar.EnumNouns</node>
+    <node x="1225.25" y="0.0">SudYar.Human</node>
+    <node x="2381.567719116632" y="78.0">SudYar.Stressful</node>
+    <node x="2001.25" y="340.0">SudYar.EnumUnions</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="SudYar.You" target="SudYar.Human">
+      <point x="-43.5" y="-60.5" />
+      <point x="1268.75" y="320.0" />
+      <point x="1307.4166666666665" y="320.0" />
+      <point x="-4.8333333333332575" y="105.0" />
+    </edge>
+    <edge source="SudYar.We" target="SudYar.Kind">
+      <point x="-58.0" y="-82.5" />
+      <point x="448.2499999999999" y="230.0" />
+      <point x="499.4427191166319" y="230.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="SudYar.Relative" target="SudYar.Human">
+      <point x="-43.5" y="-60.5" />
+      <point x="861.7499999999999" y="300.0" />
+      <point x="1288.0833333333333" y="300.0" />
+      <point x="-24.16666666666663" y="105.0" />
+    </edge>
+    <edge source="SudYar.Mum" target="SudYar.Human">
+      <point x="-21.75" y="-93.5" />
+      <point x="2281.5" y="240.0" />
+      <point x="1394.4166666666665" y="240.0" />
+      <point x="82.16666666666674" y="105.0" />
+    </edge>
+    <edge source="SudYar.Dad" target="SudYar.Human">
+      <point x="-43.5" y="-60.5" />
+      <point x="1656.75" y="290.0" />
+      <point x="1346.083333333333" y="290.0" />
+      <point x="33.83333333333326" y="105.0" />
+    </edge>
+    <edge source="SudYar.We" target="SudYar.Human">
+      <point x="58.0" y="-82.5" />
+      <point x="564.2499999999999" y="270.0" />
+      <point x="1259.0833333333333" y="270.0" />
+      <point x="-53.16666666666663" y="105.0" />
+    </edge>
+    <edge source="SudYar.Julius" target="SudYar.Poor">
+      <point x="-21.75" y="-126.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="SudYar.Nobody" target="SudYar.Human">
+      <point x="-58.0" y="-71.5" />
+      <point x="1836.25" y="270.0" />
+      <point x="1365.4166666666665" y="270.0" />
+      <point x="53.16666666666674" y="105.0" />
+    </edge>
+    <edge source="SudYar.Mum" target="SudYar.Stressful">
+      <point x="65.25" y="-93.5" />
+      <point x="2368.5" y="320.0" />
+      <point x="2456.567719116632" y="320.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="SudYar.Julius" target="SudYar.Appearing">
+      <point x="-65.25" y="-126.5" />
+      <point x="247.0" y="320.0" />
+      <point x="170.0" y="320.0" />
+      <point x="41.5" y="27.0" />
+    </edge>
+    <edge source="SudYar.Julius" target="SudYar.Human">
+      <point x="21.75" y="-126.5" />
+      <point x="334.0" y="240.0" />
+      <point x="1230.0833333333333" y="240.0" />
+      <point x="-82.16666666666663" y="105.0" />
+    </edge>
+    <edge source="SudYar.He" target="SudYar.Human">
+      <point x="43.5" y="-71.5" />
+      <point x="1549.75" y="300.0" />
+      <point x="1336.4166666666665" y="300.0" />
+      <point x="24.166666666666742" y="105.0" />
+    </edge>
+    <edge source="SudYar.Kids" target="SudYar.Human">
+      <point x="46.25" y="-93.5" />
+      <point x="751.9999999999999" y="290.0" />
+      <point x="1278.4166666666665" y="290.0" />
+      <point x="-33.83333333333337" y="105.0" />
+    </edge>
+    <edge source="SudYar.Mum" target="SudYar.Silent">
+      <point x="21.75" y="-93.5" />
+      <point x="2325.0" y="320.0" />
+      <point x="2301.567719116632" y="320.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="SudYar.Wrinkle" target="SudYar.Appearing">
+      <point x="0.0" y="-83.0" />
+      <point x="-41.5" y="27.0" />
+    </edge>
+    <edge source="SudYar.Nobody" target="SudYar.Missing">
+      <point x="58.0" y="-71.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.401755055322396" x="1300.5" y="410.5" />
+  <SelectedNodes>
+    <node>SudYar.You</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
